@@ -35,7 +35,7 @@ const CircularLinkedList: NextPage = () => {
               <img
                 className="h-6 w-6 relative overflow-hidden shrink-0"
                 alt=""
-                src="/arrowrightline.svg"
+                src="/Software-company-website/arrowrightline.svg"
               />
             </div>
           </div>
@@ -44,7 +44,7 @@ const CircularLinkedList: NextPage = () => {
           className="h-[460px] flex-1 relative max-w-full overflow-hidden min-w-[391px] mq750:min-w-full"
           loading="lazy"
           alt=""
-          src="/abouusvideo.svg"
+          src="/Software-company-website/abouusvideo.svg"
         />
       </div>
     </section>

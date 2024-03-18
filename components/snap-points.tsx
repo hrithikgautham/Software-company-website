@@ -9,7 +9,7 @@ const SnapPoints: NextPage = () => {
         className="h-[473px] flex-1 relative rounded-3xs max-w-full overflow-hidden object-cover min-w-[374px] mq450:min-w-full"
         loading="lazy"
         alt=""
-        src="/rectangle-19@2x.png"
+        src="/Software-company-website/rectangle-19@2x.png"
       />
     </div>
   );

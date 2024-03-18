@@ -38,28 +38,28 @@ const ExpNode: NextPage = () => {
                         <img
                           className="h-full w-full min-h-[34px] object-contain absolute left-[0px] top-[4px] [transform:scale(1.824)]"
                           alt=""
-                          src="/group-5-1.svg"
+                          src="/Software-company-website/group-5-1.svg"
                         />
                       </div>
                       <div className="h-[34px] w-[34px] relative min-h-[34px] flex items-center justify-center">
                         <img
                           className="h-full w-full min-h-[34px] object-contain absolute left-[0px] top-[4px] [transform:scale(1.824)]"
                           alt=""
-                          src="/group-11-1.svg"
+                          src="/Software-company-website/group-11-1.svg"
                         />
                       </div>
                       <div className="h-[34px] w-[34px] relative min-h-[34px] flex items-center justify-center">
                         <img
                           className="h-full w-full min-h-[34px] object-contain absolute left-[0px] top-[4px] [transform:scale(1.824)]"
                           alt=""
-                          src="/group-10-1.svg"
+                          src="/Software-company-website/group-10-1.svg"
                         />
                       </div>
                       <div className="h-[34px] w-[34px] relative min-h-[34px] flex items-center justify-center">
                         <img
                           className="h-full w-full min-h-[34px] object-contain absolute left-[0px] top-[4px] [transform:scale(1.824)]"
                           alt=""
-                          src="/group-9.svg"
+                          src="/Software-company-website/group-9.svg"
                         />
                       </div>
                     </div>
@@ -69,13 +69,13 @@ const ExpNode: NextPage = () => {
               <img
                 className="h-[41px] w-[123px] absolute !m-[0] top-[-1px] left-[-105px] z-[2]"
                 alt=""
-                src="/brandlogo-1.svg"
+                src="/Software-company-website/brandlogo-1.svg"
               />
               <img
                 className="h-[53px] w-[199px] absolute !m-[0] bottom-[93px] left-[-105px] object-cover z-[2]"
                 loading="lazy"
                 alt=""
-                src="/googlepagespeed-1@2x.png"
+                src="/Software-company-website/googlepagespeed-1@2x.png"
               />
             </div>
           </div>

@@ -11,7 +11,7 @@ const AlignmentGrid: NextPage = () => {
           <img
             className="w-[45px] h-[45px] relative"
             alt=""
-            src="/btnleft.svg"
+            src="/Software-company-website/btnleft.svg"
           />
         </div>
         <div className="w-[976px] flex flex-col items-start justify-start py-0 pr-[31px] pl-0 box-border max-w-[calc(100%_-_130px)] mq750:max-w-full">
@@ -25,7 +25,7 @@ const AlignmentGrid: NextPage = () => {
                 <img
                   className="h-10 w-10 relative overflow-hidden shrink-0 object-contain"
                   alt=""
-                  src="/fluentcomma24regular.svg"
+                  src="/Software-company-website/fluentcomma24regular.svg"
                 />
                 <div className="w-[535px] flex flex-col items-start justify-start pt-3 px-0 pb-0 box-border max-w-full">
                   <div className="self-stretch h-[181px] relative leading-[36px] inline-block shrink-0">
@@ -39,7 +39,7 @@ const AlignmentGrid: NextPage = () => {
                   <img
                     className="w-10 h-10 relative overflow-hidden shrink-0"
                     alt=""
-                    src="/fluentcomma24regular-1.svg"
+                    src="/Software-company-website/fluentcomma24regular-1.svg"
                   />
                 </div>
               </div>
@@ -53,7 +53,7 @@ const AlignmentGrid: NextPage = () => {
                     <img
                       className="h-full w-full object-contain absolute left-[0px] top-[4px] [transform:scale(1.98)]"
                       alt=""
-                      src="/group-2-2.svg"
+                      src="/Software-company-website/group-2-2.svg"
                     />
                   </div>
                 </div>
@@ -62,27 +62,27 @@ const AlignmentGrid: NextPage = () => {
                     <img
                       className="h-5 w-[19.5px] relative object-cover min-h-[20px]"
                       alt=""
-                      src="/star-perspective-matte-28@2x.png"
+                      src="/Software-company-website/star-perspective-matte-28@2x.png"
                     />
                     <img
                       className="h-5 w-[19.5px] relative object-cover min-h-[20px]"
                       alt=""
-                      src="/star-perspective-matte-28@2x.png"
+                      src="/Software-company-website/star-perspective-matte-28@2x.png"
                     />
                     <img
                       className="h-5 w-[19.5px] relative object-cover min-h-[20px]"
                       alt=""
-                      src="/star-perspective-matte-28@2x.png"
+                      src="/Software-company-website/star-perspective-matte-28@2x.png"
                     />
                     <img
                       className="h-5 w-[19.5px] relative object-cover min-h-[20px]"
                       alt=""
-                      src="/star-perspective-matte-28@2x.png"
+                      src="/Software-company-website/star-perspective-matte-28@2x.png"
                     />
                     <img
                       className="h-5 w-[19.5px] relative object-cover min-h-[20px]"
                       alt=""
-                      src="/star-perspective-matte-28@2x.png"
+                      src="/Software-company-website/star-perspective-matte-28@2x.png"
                     />
                   </div>
                 </div>
@@ -105,7 +105,7 @@ const AlignmentGrid: NextPage = () => {
             <img
               className="w-full h-full object-contain absolute left-[0px] top-[14px] [transform:scale(2.956)]"
               alt=""
-              src="/btnright-1.svg"
+              src="/Software-company-website/btnright-1.svg"
             />
           </div>
         </div>
@@ -114,12 +114,12 @@ const AlignmentGrid: NextPage = () => {
         className="h-[294.9px] w-[213.6px] absolute !m-[0] right-[168.4px] bottom-[-266.9px] object-contain z-[1]"
         loading="lazy"
         alt=""
-        src="/decoimgarrow@2x.png"
+        src="/Software-company-website/decoimgarrow@2x.png"
       />
       <img
         className="h-[219.6px] w-[250.5px] absolute !m-[0] bottom-[-194.6px] left-[35px] object-contain z-[1]"
         alt=""
-        src="/decoimgarrow-1@2x.png"
+        src="/Software-company-website/decoimgarrow-1@2x.png"
       />
     </section>
   );

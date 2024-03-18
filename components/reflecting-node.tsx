@@ -44,33 +44,33 @@ const ReflectingNode: NextPage = () => {
               className="h-[94px] w-[166px] relative overflow-hidden shrink-0 min-h-[94px]"
               loading="lazy"
               alt=""
-              src="/nodejs.svg"
+              src="/Software-company-website/nodejs.svg"
             />
             <img
               className="h-[94px] w-[166px] relative overflow-hidden shrink-0 object-cover min-h-[94px]"
               loading="lazy"
               alt=""
-              src="/php@2x.png"
+              src="/Software-company-website/php@2x.png"
             />
             <div className="h-[87px] w-40 flex flex-col items-start justify-start pt-[7px] px-0 pb-0 box-border">
               <img
                 className="self-stretch flex-1 relative max-w-full overflow-hidden max-h-full object-cover"
                 loading="lazy"
                 alt=""
-                src="/kisspngmysqliphpdatabaselinuxcoding5ac4824a2e87e0-1@2x.png"
+                src="/Software-company-website/kisspngmysqliphpdatabaselinuxcoding5ac4824a2e87e0-1@2x.png"
               />
             </div>
             <img
               className="h-[94px] w-[166px] relative overflow-hidden shrink-0 min-h-[94px]"
               loading="lazy"
               alt=""
-              src="/java.svg"
+              src="/Software-company-website/java.svg"
             />
             <img
               className="h-[94px] w-[166px] relative overflow-hidden shrink-0 min-h-[94px]"
               loading="lazy"
               alt=""
-              src="/netcore.svg"
+              src="/Software-company-website/netcore.svg"
             />
           </div>
         </div>
@@ -80,26 +80,26 @@ const ReflectingNode: NextPage = () => {
               className="h-[94px] w-[166px] relative overflow-hidden shrink-0 object-cover min-h-[94px]"
               loading="lazy"
               alt=""
-              src="/python@2x.png"
+              src="/Software-company-website/python@2x.png"
             />
             <img
               className="h-[94px] w-[166px] relative overflow-hidden shrink-0 min-h-[94px]"
               loading="lazy"
               alt=""
-              src="/rubyonrails.svg"
+              src="/Software-company-website/rubyonrails.svg"
             />
             <img
               className="h-[94px] w-[166px] relative overflow-hidden shrink-0 min-h-[94px]"
               loading="lazy"
               alt=""
-              src="/go.svg"
+              src="/Software-company-website/go.svg"
             />
             <div className="flex-1 flex flex-col items-start justify-start pt-5 px-0 pb-0 box-border min-w-[131px]">
               <img
                 className="self-stretch h-[54px] relative max-w-full overflow-hidden shrink-0 object-cover"
                 loading="lazy"
                 alt=""
-                src="/mon-1@2x.png"
+                src="/Software-company-website/mon-1@2x.png"
               />
             </div>
           </div>

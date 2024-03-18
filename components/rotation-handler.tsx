@@ -17,7 +17,7 @@ const RotationHandler: NextPage = () => {
         <img
           className="h-[1662.8px] w-[923.5px] absolute !m-[0] bottom-[-1156.8px] left-[74px]"
           alt=""
-          src="/group-20.svg"
+          src="/Software-company-website/group-20.svg"
         />
         <div className="flex-1 flex flex-row items-start justify-center gap-[124px] max-w-full z-[1] lg:gap-[124px_62px] mq450:gap-[124px_15px] mq750:gap-[124px_31px] mq1050:flex-wrap">
           <Distribution textboxManager="/ellipse-185@2x.png" />
@@ -26,7 +26,7 @@ const RotationHandler: NextPage = () => {
             className="h-[473px] flex-1 relative rounded-3xs max-w-full overflow-hidden object-cover min-w-[374px] mq450:min-w-full"
             loading="lazy"
             alt=""
-            src="/rectangle-17@2x.png"
+            src="/Software-company-website/rectangle-17@2x.png"
           />
         </div>
       </div>

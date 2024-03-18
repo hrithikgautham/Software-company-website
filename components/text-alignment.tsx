@@ -81,7 +81,7 @@ const TextAlignment: NextPage = () => {
               <img
                 className="w-[42px] h-[42px] relative object-cover"
                 alt=""
-                src="/trophy-perspective-matte@2x.png"
+                src="/Software-company-website/trophy-perspective-matte@2x.png"
               />
             </div>
           </div>

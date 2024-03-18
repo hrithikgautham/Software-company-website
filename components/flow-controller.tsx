@@ -41,7 +41,7 @@ const FlowController: NextPage<FlowControllerType> = ({
             <img
               className="absolute top-[10px] left-[12px] w-[34px] h-[35px] object-cover hidden"
               alt=""
-              src="/play-perspective-matte@2x.png"
+              src="/Software-company-website/play-perspective-matte@2x.png"
             />
           </div>
           <div className="flex-1 flex flex-col items-start justify-start gap-[10px] min-w-[294px] max-w-full">

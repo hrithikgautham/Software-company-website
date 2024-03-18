@@ -25,12 +25,12 @@ const SoftwareCompanyWebsite: NextPage = () => {
           <img
             className="absolute top-[284px] left-[0px] w-[393.2px] h-[387px]"
             alt=""
-            src="/group-10.svg"
+            src="/Software-company-website/group-10.svg"
           />
           <img
             className="absolute top-[0px] left-[24px] w-[71px] h-[69.7px]"
             alt=""
-            src="/group-11.svg"
+            src="/Software-company-website/group-11.svg"
           />
         </div>
       </div>
@@ -38,12 +38,12 @@ const SoftwareCompanyWebsite: NextPage = () => {
       <img
         className="w-[781px] h-[781px] relative object-contain hidden max-w-full z-[2]"
         alt=""
-        src="/group-16@2x.png"
+        src="/Software-company-website/group-16@2x.png"
       />
       <img
         className="w-[781px] h-[781px] relative object-contain hidden max-w-full z-[3]"
         alt=""
-        src="/group-19@2x.png"
+        src="/Software-company-website/group-19@2x.png"
       />
       <section className="self-stretch flex flex-col items-start justify-start pt-0 px-0 pb-[74.69999999999982px] box-border gap-[69px] max-w-full mq450:gap-[17px_69px] mq450:pb-8 mq450:box-border mq750:gap-[34px_69px] mq1050:pb-[49px] mq1050:box-border">
         <InputSplitter />
@@ -54,7 +54,7 @@ const SoftwareCompanyWebsite: NextPage = () => {
         <img
           className="absolute top-[17px] left-[0px] w-[39px] h-[39px] overflow-hidden object-contain"
           alt=""
-          src="/rightarrow-20-1@2x.png"
+          src="/Software-company-website/rightarrow-20-1@2x.png"
         />
         <div className="absolute top-[6px] left-[18px] rounded-3xs [background:linear-gradient(225deg,_#f76680,_#57007b)] w-[3px] h-2" />
         <div className="absolute top-[0px] left-[18px] rounded-3xs [background:linear-gradient(225deg,_#f76680,_#57007b)] w-[3px] h-[3px]" />
@@ -64,33 +64,33 @@ const SoftwareCompanyWebsite: NextPage = () => {
           <img
             className="w-[85px] h-[85px] relative"
             alt=""
-            src="/group-5.svg"
+            src="/Software-company-website/group-5.svg"
           />
           <div className="self-stretch h-[18px] relative">
             <img
               className="absolute top-[0px] left-[16.2px] w-[17.6px] h-[18px] object-cover"
               alt=""
-              src="/star-perspective-matte@2x.png"
+              src="/Software-company-website/star-perspective-matte@2x.png"
             />
             <img
               className="absolute top-[0px] left-[38.2px] w-[17.6px] h-[18px] object-cover"
               alt=""
-              src="/star-perspective-matte@2x.png"
+              src="/Software-company-website/star-perspective-matte@2x.png"
             />
             <img
               className="absolute top-[0px] left-[60.2px] w-[17.6px] h-[18px] object-cover"
               alt=""
-              src="/star-perspective-matte@2x.png"
+              src="/Software-company-website/star-perspective-matte@2x.png"
             />
             <img
               className="absolute top-[0px] left-[82.2px] w-[17.6px] h-[18px] object-cover"
               alt=""
-              src="/star-perspective-matte@2x.png"
+              src="/Software-company-website/star-perspective-matte@2x.png"
             />
             <img
               className="absolute top-[0px] left-[104.2px] w-[17.6px] h-[18px] object-cover"
               alt=""
-              src="/star-perspective-matte@2x.png"
+              src="/Software-company-website/star-perspective-matte@2x.png"
             />
           </div>
           <div className="self-stretch flex flex-col items-center justify-center gap-[2px]">
@@ -106,33 +106,33 @@ const SoftwareCompanyWebsite: NextPage = () => {
           <img
             className="w-[85px] h-[85px] relative"
             alt=""
-            src="/group-7.svg"
+            src="/Software-company-website/group-7.svg"
           />
           <div className="self-stretch h-[18px] relative">
             <img
               className="absolute top-[0px] left-[16.2px] w-[17.6px] h-[18px] object-cover"
               alt=""
-              src="/star-perspective-matte@2x.png"
+              src="/Software-company-website/star-perspective-matte@2x.png"
             />
             <img
               className="absolute top-[0px] left-[38.2px] w-[17.6px] h-[18px] object-cover"
               alt=""
-              src="/star-perspective-matte@2x.png"
+              src="/Software-company-website/star-perspective-matte@2x.png"
             />
             <img
               className="absolute top-[0px] left-[60.2px] w-[17.6px] h-[18px] object-cover"
               alt=""
-              src="/star-perspective-matte@2x.png"
+              src="/Software-company-website/star-perspective-matte@2x.png"
             />
             <img
               className="absolute top-[0px] left-[82.2px] w-[17.6px] h-[18px] object-cover"
               alt=""
-              src="/star-perspective-matte@2x.png"
+              src="/Software-company-website/star-perspective-matte@2x.png"
             />
             <img
               className="absolute top-[0px] left-[104.2px] w-[17.6px] h-[18px] object-cover"
               alt=""
-              src="/star-perspective-matte@2x.png"
+              src="/Software-company-website/star-perspective-matte@2x.png"
             />
           </div>
           <div className="self-stretch flex flex-col items-center justify-center gap-[2px]">
@@ -148,28 +148,28 @@ const SoftwareCompanyWebsite: NextPage = () => {
           <img
             className="absolute top-[0px] left-[20.5px] w-20 h-20"
             alt=""
-            src="/group-4.svg"
+            src="/Software-company-website/group-4.svg"
           />
           <div className="absolute top-[106px] left-[31.7px] w-[57.7px] h-[13px]">
             <img
               className="absolute top-[0px] left-[0px] w-[12.7px] h-[13px] object-cover"
               alt=""
-              src="/star-perspective-matte-10@2x.png"
+              src="/Software-company-website/star-perspective-matte-10@2x.png"
             />
             <img
               className="absolute top-[0px] left-[15px] w-[12.7px] h-[13px] object-cover"
               alt=""
-              src="/star-perspective-matte-10@2x.png"
+              src="/Software-company-website/star-perspective-matte-10@2x.png"
             />
             <img
               className="absolute top-[0px] left-[30px] w-[12.7px] h-[13px] object-cover"
               alt=""
-              src="/star-perspective-matte-10@2x.png"
+              src="/Software-company-website/star-perspective-matte-10@2x.png"
             />
             <img
               className="absolute top-[0px] left-[45px] w-[12.7px] h-[13px] object-cover"
               alt=""
-              src="/star-perspective-matte-10@2x.png"
+              src="/Software-company-website/star-perspective-matte-10@2x.png"
             />
           </div>
           <div className="absolute top-[127px] left-[0px] flex flex-col items-center justify-center gap-[2px]">
@@ -182,27 +182,27 @@ const SoftwareCompanyWebsite: NextPage = () => {
           </div>
         </div>
         <div className="absolute top-[0px] left-[0px] flex flex-col items-center justify-center gap-[8px] w-full h-full text-sm">
-          <img className="w-20 h-20 relative" alt="" src="/group-6.svg" />
+          <img className="w-20 h-20 relative" alt="" src="/Software-company-website/group-6.svg" />
           <div className="w-[98px] h-[13px] relative">
             <img
               className="absolute top-[0px] left-[20.15px] w-[12.7px] h-[13px] object-cover"
               alt=""
-              src="/star-perspective-matte-10@2x.png"
+              src="/Software-company-website/star-perspective-matte-10@2x.png"
             />
             <img
               className="absolute top-[0px] left-[35.15px] w-[12.7px] h-[13px] object-cover"
               alt=""
-              src="/star-perspective-matte-10@2x.png"
+              src="/Software-company-website/star-perspective-matte-10@2x.png"
             />
             <img
               className="absolute top-[0px] left-[50.15px] w-[12.7px] h-[13px] object-cover"
               alt=""
-              src="/star-perspective-matte-10@2x.png"
+              src="/Software-company-website/star-perspective-matte-10@2x.png"
             />
             <img
               className="absolute top-[0px] left-[65.15px] w-[12.7px] h-[13px] object-cover"
               alt=""
-              src="/star-perspective-matte-10@2x.png"
+              src="/Software-company-website/star-perspective-matte-10@2x.png"
             />
           </div>
           <div className="self-stretch flex flex-col items-center justify-center gap-[2px]">
@@ -222,29 +222,29 @@ const SoftwareCompanyWebsite: NextPage = () => {
         <img
           className="h-[1777px] flex-1 relative max-w-full overflow-hidden"
           alt=""
-          src="/group-18.svg"
+          src="/Software-company-website/group-18.svg"
         />
         <img
           className="h-[416px] w-[601px] absolute !m-[0] top-[303px] left-[104px] rounded-3xs object-cover z-[2]"
           loading="lazy"
           alt=""
-          src="/casestudy--image@2x.png"
+          src="/Software-company-website/casestudy--image@2x.png"
         />
         <img
           className="h-[416px] w-[601px] absolute !m-[0] bottom-[607px] left-[104px] rounded-3xs object-cover z-[2]"
           alt=""
-          src="/casestudy--image-1@2x.png"
+          src="/Software-company-website/casestudy--image-1@2x.png"
         />
         <img
           className="h-[416px] w-[601px] absolute !m-[0] bottom-[156px] left-[104px] rounded-3xs object-cover z-[2]"
           alt=""
-          src="/casestudy--image-2@2x.png"
+          src="/Software-company-website/casestudy--image-2@2x.png"
         />
       </section>
       <img
         className="w-full h-[1142px] absolute !m-[0] right-[0px] bottom-[3024px] left-[0px] max-w-full overflow-hidden shrink-0"
         alt=""
-        src="/backgroundwrapper.svg"
+        src="/Software-company-website/backgroundwrapper.svg"
       />
       <div className="w-[1233px] hidden flex-col items-end justify-end gap-[40px] max-w-full z-[13] text-16xl text-gray-gray-900">
         <div className="self-stretch flex flex-col items-start justify-start gap-[55px] max-w-full">
@@ -282,19 +282,19 @@ const SoftwareCompanyWebsite: NextPage = () => {
                     <img
                       className="h-4 w-4 relative overflow-hidden shrink-0"
                       alt=""
-                      src="/arrowrightsline.svg"
+                      src="/Software-company-website/arrowrightsline.svg"
                     />
                     <img
                       className="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
                       alt=""
-                      src="/arrowrightcirclefill.svg"
+                      src="/Software-company-website/arrowrightcirclefill.svg"
                     />
                   </div>
                 </div>
                 <img
                   className="absolute h-[63.51%] w-full top-[34.05%] right-[0%] bottom-[2.44%] left-[0%] rounded-3xs max-w-full overflow-hidden max-h-full object-cover"
                   alt=""
-                  src="/casestudy--image-3@2x.png"
+                  src="/Software-company-website/casestudy--image-3@2x.png"
                 />
               </div>
               <div className="h-[655px] flex-1 relative min-w-[391px] max-w-full mq450:min-w-full">
@@ -320,19 +320,19 @@ const SoftwareCompanyWebsite: NextPage = () => {
                     <img
                       className="h-4 w-4 relative overflow-hidden shrink-0"
                       alt=""
-                      src="/arrowrightsline.svg"
+                      src="/Software-company-website/arrowrightsline.svg"
                     />
                     <img
                       className="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
                       alt=""
-                      src="/arrowrightcirclefill.svg"
+                      src="/Software-company-website/arrowrightcirclefill.svg"
                     />
                   </div>
                 </div>
                 <img
                   className="absolute h-[63.51%] w-full top-[34.05%] right-[0%] bottom-[2.44%] left-[0%] rounded-3xs max-w-full overflow-hidden max-h-full object-cover"
                   alt=""
-                  src="/casestudy--image-4@2x.png"
+                  src="/Software-company-website/casestudy--image-4@2x.png"
                 />
               </div>
             </div>
@@ -360,19 +360,19 @@ const SoftwareCompanyWebsite: NextPage = () => {
                     <img
                       className="h-4 w-4 relative overflow-hidden shrink-0"
                       alt=""
-                      src="/arrowrightsline.svg"
+                      src="/Software-company-website/arrowrightsline.svg"
                     />
                     <img
                       className="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
                       alt=""
-                      src="/arrowrightcirclefill.svg"
+                      src="/Software-company-website/arrowrightcirclefill.svg"
                     />
                   </div>
                 </div>
                 <img
                   className="absolute h-[63.51%] w-full top-[34.05%] right-[0%] bottom-[2.44%] left-[0%] rounded-3xs max-w-full overflow-hidden max-h-full object-cover"
                   alt=""
-                  src="/casestudy--image-5@2x.png"
+                  src="/Software-company-website/casestudy--image-5@2x.png"
                 />
               </div>
               <div className="h-[655px] flex-1 relative min-w-[391px] max-w-full mq450:min-w-full">
@@ -398,19 +398,19 @@ const SoftwareCompanyWebsite: NextPage = () => {
                     <img
                       className="h-4 w-4 relative overflow-hidden shrink-0"
                       alt=""
-                      src="/arrowrightsline.svg"
+                      src="/Software-company-website/arrowrightsline.svg"
                     />
                     <img
                       className="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
                       alt=""
-                      src="/arrowrightcirclefill.svg"
+                      src="/Software-company-website/arrowrightcirclefill.svg"
                     />
                   </div>
                 </div>
                 <img
                   className="absolute h-[63.51%] w-full top-[34.05%] right-[0%] bottom-[2.44%] left-[0%] rounded-3xs max-w-full overflow-hidden max-h-full object-cover"
                   alt=""
-                  src="/casestudy--image-6@2x.png"
+                  src="/Software-company-website/casestudy--image-6@2x.png"
                 />
               </div>
             </div>
@@ -423,7 +423,7 @@ const SoftwareCompanyWebsite: NextPage = () => {
           <img
             className="h-[27px] w-[27px] relative overflow-hidden shrink-0"
             alt=""
-            src="/arrowrightsline-4.svg"
+            src="/Software-company-website/arrowrightsline-4.svg"
           />
         </div>
       </div>
@@ -466,7 +466,7 @@ const SoftwareCompanyWebsite: NextPage = () => {
                   <img
                     className="h-[27px] w-[27px] relative overflow-hidden shrink-0 min-h-[27px] z-[1]"
                     alt=""
-                    src="/arrowrightsline-4.svg"
+                    src="/Software-company-website/arrowrightsline-4.svg"
                   />
                 </div>
               </div>

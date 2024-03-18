@@ -9,7 +9,7 @@ const InputSplitter: NextPage = () => {
           className="h-[59px] w-[180px] relative"
           loading="lazy"
           alt=""
-          src="/brandlogo.svg"
+          src="/Software-company-website/brandlogo.svg"
         />
         <div className="w-[645px] flex flex-row items-center justify-between py-2.5 px-0 box-border max-w-full">
           <div className="h-[22px] w-14 relative hidden z-[1] text-lg text-brand-primary-bg">

@@ -33,7 +33,7 @@ const ServiceCard: NextPage<ServiceCardType> = ({
             <img
               className="absolute top-[12px] left-[12px] w-[34px] h-[34px] object-cover hidden"
               alt=""
-              src="/code-perspective-matte@2x.png"
+              src="/Software-company-website/code-perspective-matte@2x.png"
             />
           </div>
           <div className="self-stretch relative leading-[136.52%] font-semibold mq450:text-base mq450:leading-[22px]">

@@ -15,48 +15,48 @@ const MethodNode: NextPage = () => {
             <img
               className="h-20 w-[107px] relative shrink-0 object-cover hidden min-h-[80px]"
               alt=""
-              src="/hd@2x.png"
+              src="/Software-company-website/hd@2x.png"
             />
             <img
               className="h-[81px] w-[170px] relative shrink-0 object-cover min-h-[81px]"
               loading="lazy"
               alt=""
-              src="/logo9@2x.png"
+              src="/Software-company-website/logo9@2x.png"
             />
             <img
               className="h-20 w-[101px] relative shrink-0 object-cover min-h-[80px]"
               loading="lazy"
               alt=""
-              src="/logo8@2x.png"
+              src="/Software-company-website/logo8@2x.png"
             />
             <img
               className="h-20 w-[215px] relative shrink-0 object-cover min-h-[80px]"
               loading="lazy"
               alt=""
-              src="/logo5@2x.png"
+              src="/Software-company-website/logo5@2x.png"
             />
             <img
               className="h-20 w-[215px] relative shrink-0 object-cover min-h-[80px]"
               loading="lazy"
               alt=""
-              src="/logo7@2x.png"
+              src="/Software-company-website/logo7@2x.png"
             />
             <img
               className="h-20 w-[215px] relative shrink-0 object-cover min-h-[80px]"
               alt=""
-              src="/logo9-1@2x.png"
-            />
-            <img
-              className="h-20 w-[215px] relative shrink-0 object-cover min-h-[80px]"
-              loading="lazy"
-              alt=""
-              src="/logo6@2x.png"
+              src="/Software-company-website/logo9-1@2x.png"
             />
             <img
               className="h-20 w-[215px] relative shrink-0 object-cover min-h-[80px]"
               loading="lazy"
               alt=""
-              src="/logo3@2x.png"
+              src="/Software-company-website/logo6@2x.png"
+            />
+            <img
+              className="h-20 w-[215px] relative shrink-0 object-cover min-h-[80px]"
+              loading="lazy"
+              alt=""
+              src="/Software-company-website/logo3@2x.png"
             />
           </div>
           <img

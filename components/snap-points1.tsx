@@ -6,7 +6,7 @@ const SnapPoints1: NextPage = () => {
       <img
         className="h-[473px] flex-1 relative rounded-3xs max-w-full overflow-hidden object-cover min-w-[374px] mq450:min-w-full"
         alt=""
-        src="/guides-manager@2x.png"
+        src="/Software-company-website/guides-manager@2x.png"
       />
       <div className="w-[534px] flex flex-col items-start justify-start pt-5 px-0 pb-0 box-border min-w-[534px] max-w-full mq750:min-w-full mq1050:flex-1">
         <div className="self-stretch flex flex-col items-start justify-start gap-[10px] max-w-full">
@@ -40,7 +40,7 @@ const SnapPoints1: NextPage = () => {
                 <img
                   className="h-[41px] w-[41px] relative rounded-[50%] object-cover min-h-[41px]"
                   alt=""
-                  src="/ellipse-185-1@2x.png"
+                  src="/Software-company-website/ellipse-185-1@2x.png"
                 />
                 <div className="flex flex-col items-start justify-start gap-[5px]">
                   <div className="relative">Jeewa markram</div>

@@ -17,13 +17,13 @@ const NumberNode: NextPage = () => {
               <img
                 className="h-[45px] w-[45px] relative min-h-[45px]"
                 alt=""
-                src="/btnleft.svg"
+                src="/Software-company-website/btnleft.svg"
               />
               <div className="h-[45px] w-[45px] relative min-h-[45px] flex items-center justify-center">
                 <img
                   className="h-full w-full min-h-[45px] object-contain absolute left-[0px] top-[14px] [transform:scale(2.956)]"
                   alt=""
-                  src="/btnright.svg"
+                  src="/Software-company-website/btnright.svg"
                 />
               </div>
             </div>

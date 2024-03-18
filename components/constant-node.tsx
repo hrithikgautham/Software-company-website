@@ -64,7 +64,7 @@ const ConstantNode: NextPage = () => {
             className="self-stretch h-[546px] relative max-w-full overflow-hidden shrink-0 object-cover"
             loading="lazy"
             alt=""
-            src="/herowrapper--imagecenter@2x.png"
+            src="/Software-company-website/herowrapper--imagecenter@2x.png"
           />
         </div>
       </div>

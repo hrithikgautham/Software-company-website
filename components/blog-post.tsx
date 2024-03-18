@@ -25,7 +25,7 @@ const BlogPost: NextPage<BlogPostType> = ({ constantNode }) => {
         <img
           className="h-6 w-6 relative overflow-hidden shrink-0"
           alt=""
-          src="/arrowrightline.svg"
+          src="/Software-company-website/arrowrightline.svg"
         />
       </div>
     </div>

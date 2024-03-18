@@ -22,7 +22,7 @@ const NestingNode: NextPage = () => {
                 <img
                   className="absolute top-[12px] left-[12px] w-[34px] h-[34px] object-cover z-[1]"
                   alt=""
-                  src="/code-perspective-matte@2x.png"
+                  src="/Software-company-website/code-perspective-matte@2x.png"
                 />
               </div>
               <div className="self-stretch relative leading-[136.52%] font-semibold mq450:text-base mq450:leading-[22px]">
@@ -47,7 +47,7 @@ const NestingNode: NextPage = () => {
                 <img
                   className="h-[34px] w-[34px] relative object-cover hidden"
                   alt=""
-                  src="/code-perspective-matte@2x.png"
+                  src="/Software-company-website/code-perspective-matte@2x.png"
                 />
               </div>
               <div className="flex-1 relative leading-[136.52%] font-semibold mq450:text-base mq450:leading-[22px]">
@@ -91,7 +91,7 @@ const NestingNode: NextPage = () => {
                               <img
                                 className="absolute top-[12px] left-[12px] w-[34px] h-[34px] object-cover z-[1]"
                                 alt=""
-                                src="/code-perspective-matte-1@2x.png"
+                                src="/Software-company-website/code-perspective-matte-1@2x.png"
                               />
                             </div>
                             <div className="relative leading-[136.52%] font-semibold text-transparent !bg-clip-text [background:linear-gradient(225deg,_#f76680,_#57007b)] [-webkit-background-clip:text] [-webkit-text-fill-color:transparent] mq450:text-base mq450:leading-[22px]">
@@ -115,12 +115,12 @@ const NestingNode: NextPage = () => {
                   <img
                     className="h-[42px] w-[42px] absolute !m-[0] top-[44px] left-[24px] object-cover z-[2]"
                     alt=""
-                    src="/mobile-app-perspective-matte@2x.png"
+                    src="/Software-company-website/mobile-app-perspective-matte@2x.png"
                   />
                   <img
                     className="h-8 w-[31px] absolute !m-[0] top-[49px] right-[273px] object-cover z-[2]"
                     alt=""
-                    src="/dashboard-perspective-matte@2x.png"
+                    src="/Software-company-website/dashboard-perspective-matte@2x.png"
                   />
                 </div>
               </div>
@@ -163,12 +163,12 @@ const NestingNode: NextPage = () => {
         <img
           className="absolute top-[292.3px] left-[263px] w-[45px] h-[45px] hidden"
           alt=""
-          src="/btnleft.svg"
+          src="/Software-company-website/btnleft.svg"
         />
         <img
           className="absolute top-[292.3px] left-[1516px] w-[45px] h-[45px] hidden z-[5]"
           alt=""
-          src="/btnright.svg"
+          src="/Software-company-website/btnright.svg"
         />
       </div>
     </section>

@@ -22,27 +22,27 @@ const SelectionTool1: NextPage<SelectionTool1Type> = ({ group2 }) => {
           <img
             className="h-5 w-[19.5px] relative object-cover min-h-[20px]"
             alt=""
-            src="/star-perspective-matte-18@2x.png"
+            src="/Software-company-website/star-perspective-matte-18@2x.png"
           />
           <img
             className="h-5 w-[19.5px] relative object-cover min-h-[20px]"
             alt=""
-            src="/star-perspective-matte-18@2x.png"
+            src="/Software-company-website/star-perspective-matte-18@2x.png"
           />
           <img
             className="h-5 w-[19.5px] relative object-cover min-h-[20px]"
             alt=""
-            src="/star-perspective-matte-18@2x.png"
+            src="/Software-company-website/star-perspective-matte-18@2x.png"
           />
           <img
             className="h-5 w-[19.5px] relative object-cover min-h-[20px]"
             alt=""
-            src="/star-perspective-matte-18@2x.png"
+            src="/Software-company-website/star-perspective-matte-18@2x.png"
           />
           <img
             className="h-5 w-[19.5px] relative object-cover min-h-[20px]"
             alt=""
-            src="/star-perspective-matte-18@2x.png"
+            src="/Software-company-website/star-perspective-matte-18@2x.png"
           />
         </div>
         <div className="self-stretch flex flex-col items-start justify-start">

@@ -56,12 +56,12 @@ const TextProperties: NextPage<TextPropertiesType> = ({
             <img
               className="h-4 w-4 relative overflow-hidden shrink-0 min-h-[16px]"
               alt=""
-              src="/arrowrightsline.svg"
+              src="/Software-company-website/arrowrightsline.svg"
             />
             <img
               className="h-3.5 w-3.5 relative overflow-hidden shrink-0 hidden"
               alt=""
-              src="/arrowrightcirclefill.svg"
+              src="/Software-company-website/arrowrightcirclefill.svg"
             />
           </div>
         </div>
